@@ -1,4 +1,4 @@
-package com.dk0124.bulletin.simple.config;
+package com.dk0124.bulletin.simple.config.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
